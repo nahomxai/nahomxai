@@ -2,7 +2,7 @@
 
 Cybersecurity & AI
 
-Addis Ababa, Ethiopia
+Ethiopia,Tigray,Mekelle@Home
 
 ---
 
@@ -16,8 +16,9 @@ Addis Ababa, Ethiopia
 
 ## Notes
 Learning by building and testing things in real environments.
+enjoy some of my tools too.
 
 ---
 
 ## Status
-Early stage.
+on going.
